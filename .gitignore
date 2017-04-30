@@ -1,5 +1,4 @@
 node_modules/
 temp
-
-bundle.js.map
-bundle.js
+public/bundle.js.map
+public/bundle.js

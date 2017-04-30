@@ -5,6 +5,10 @@
   "license": "MIT",
   "devDependencies": {
     "fable-compiler": "^0.7.50",
+    "fable-react": "^0.8.6",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "redux": "^3.6.0",
     "source-map-loader": "^0.2.1",
     "webpack": "^2.4.1"
   },
